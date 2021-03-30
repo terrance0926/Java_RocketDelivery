@@ -1,0 +1,12 @@
+Username,Password,Role,ID,Name,Email-address,Contact Number
+admin1,123,admin,ad001,lengzairance,shuaige@gmail.com,0124565678
+admin2,123,admin,ad002,Siaw Yi Wei,syw@gmail.com,0123553345
+manager1,123,manager,mgr001,Ivan Pia,ivan1234@gmail.com,0172420726
+manager2,123,manager,mgr002,Duweee @ Dai Fei,daifei1@gmail.com,0123309076
+rider1,123,rider,rdr001,Mary Ting,mary001@gmail.com,0127894512
+rider2,123,rider,rdr002,Lee Yang Shen,lys@gmail.com,0163800585
+rider3,123,rider,rdr003,Slyvia Wang Zi Yi,ziyi@gmail.com,0178339211
+rider4,123,rider,rdr004,Louis Coulson,louis004@gmail.com,0127895623
+rider5,123,rider,rdr005,Akash Wong,akash005@gmail.com,012234897
+customer1,123,customer,cus001,Lim Jia ling,ljliang001@gmail.com,0129913588
+customer2,123,customer,cus002,Trey Adam,trey002@gmail.com,0122354589

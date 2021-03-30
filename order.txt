@@ -1,0 +1,7 @@
+Order ID,Created Date,Delivered Date,Delivered Time,Status,Remarks,Priority,Address,Customer ID,Rider ID
+odr1,15/10/2020,27/11/2020,01:13,Delivered,order delivered successfully,Low,26 jalan watasan 3/20 47160 puchong,cus001,rdr001
+odr2,15/10/2020,-,-,Pending,-,Low,45 jalan bunga tatasan,cus001,-
+odr3,27/11/2020,-,-,Delivering,-,High,jalan raya 353323 kuala lumpur,cus001,rdr001
+odr4,27/11/2020,-,-,Delivering,-,High,453 taman desa kuala lumpur,cus002,rdr002
+odr5,27/11/2020,-,-,Pending,-,Low,taman reye 543212 kuantan,cus002,-
+odr6,27/11/2020,-,-,Delivering,-,High,65 taman madah Kuala Lumpur 56000 Malaysia,cus001,rdr001
